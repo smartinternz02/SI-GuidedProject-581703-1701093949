@@ -1,4 +1,4 @@
-#Lip Reading using Deeplearning (SI-GuidedProject-581703-1701093949)
+##Lip Reading using Deeplearning (SI-GuidedProject-581703-1701093949)
 
 In this Project, We have used DeepLearning to train a model that can predict the text from a video of lip movements and have achieved.
 
